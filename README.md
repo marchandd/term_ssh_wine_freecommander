@@ -22,7 +22,7 @@ Run scripts for Windows Portable-apps samples to install and use like explain in
 
 | State | Portable-app  
 | --- | ---  
-| Silver | [FreeCommander](https://github.com/marchandd/term_ssh_wine_portableapps/blob/master/docs/freecommander.md "FreeCommander_Details") Portable-app  
+| Silver | [FreeCommander](https://github.com/marchandd/term_ssh_wine_freecommander/blob/master/docs/freecommander.md "FreeCommander_Details") Portable-app  
 
 ### Image size
 
